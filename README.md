@@ -2,6 +2,6 @@
 
 Pasito a pasito
 
-# Hello Worl!
+# Hello World!
 
-My name is cazsol
+Cazsol blog for security
