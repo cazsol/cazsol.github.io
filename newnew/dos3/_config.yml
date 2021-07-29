@@ -33,8 +33,9 @@ plugins:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
+exclude:
+#- gemDemo/ruby/
+   - ./gemDemo/ruby/
 #   - Gemfile.lock
 #   - node_modules
 #   - vendor/bundle/
