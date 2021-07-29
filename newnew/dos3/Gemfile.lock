@@ -145,9 +145,6 @@ GEM
       jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-theme-slate (0.1.1)
-      jekyll (~> 3.5)
-      jekyll-seo-tag (~> 2.0)
     jekyll-titles-from-headings (0.5.3)
       jekyll (>= 3.3, < 5.0)
     jekyll-watch (2.2.1)
@@ -207,10 +204,13 @@ GEM
       ethon (>= 0.9.0)
     tzinfo (1.2.9)
       thread_safe (~> 0.1)
+    tzinfo-data (1.2021.1)
+      tzinfo (>= 1.0.0)
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.7.7)
     unicode-display_width (1.7.0)
+    wdm (0.1.1)
     zeitwerk (2.4.2)
 
 PLATFORMS
@@ -218,11 +218,12 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 217)
-  jekyll-feed (~> 0.12)
-  jekyll-theme-slate
+  jekyll-feed (~> 0.6)
+  kramdown-parser-gfm
+  minima (~> 2.0)
   tzinfo (~> 1.2)
   tzinfo-data
-  wdm (~> 0.1.1)
+  wdm (~> 0.1.0)
 
 BUNDLED WITH
    2.2.24
