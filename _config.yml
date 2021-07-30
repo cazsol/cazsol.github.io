@@ -21,7 +21,7 @@
 title: Experiments in Feedback
 email: erik.bacilio@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-Come and share random thoughts on tehcnology and society
+  Come and share random thoughts on tehcnology and society
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: @cazsol
