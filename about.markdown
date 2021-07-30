@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi this is Erik
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I want to write this blog to track my thoughts on technology and society. This will include the effect of technology in people, cool ideas in technology, security as a pilar of technology, economics, cools ideas and some code snippets when appropiate.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+If something resonates with you please jump into the discussion and reach out at erik.bacilio@gmail.com or @cazsol at twitter!
 
-
-[jekyll-organization]: https://github.com/jekyll
+Cheers!
